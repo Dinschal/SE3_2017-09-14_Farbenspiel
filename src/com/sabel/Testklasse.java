@@ -1,4 +1,13 @@
 package com.sabel;
 
-public class Testklasse {
+import javax.swing.*;
+
+public class Testklasse{
+    public static void main(String[] args) {
+        new Fenster();
+    }
+
+
+
 }
+
